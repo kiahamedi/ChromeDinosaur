@@ -10,4 +10,6 @@ for use first install pyscreenshot,PIL,pyautogui and numpy lib with pip for pyth
 browser = left your display (Like Shot)<br>
 terminal = right your display (Like Shot)
 
-
+# More
+for detaits you can see this link:<br>
+`https://www.instagram.com/p/BsUpw00gq25/`

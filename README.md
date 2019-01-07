@@ -24,4 +24,7 @@ this sciprt support firefox,chrome,chromium,opera or other browsers<br>
 
 # More
 for detaits you can see this link:<br>
-`https://www.instagram.com/p/BsUpw00gq25/`
+`https://www.instagram.com/p/BsUpw00gq25/`<br>
+<br>
+game link:`www.trex-game.skipser.com` 
+

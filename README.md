@@ -10,6 +10,18 @@ for use first install pyscreenshot,PIL,pyautogui and numpy lib with pip for pyth
 browser = left your display (Like Shot)<br>
 terminal = right your display (Like Shot)
 
+# Installing
+`sudo pip install pyscreenshot`<br>
+`sudo pip install pillow`<br>
+`sudo pip install pyautogui`<br>
+`sudo pip install numpy`<br>
+
+# run
+`python NNDinosaur.py`<br>
+
+# support
+this sciprt support firefox,chrome,chromium,opera or other browsers<br>
+
 # More
 for detaits you can see this link:<br>
 `https://www.instagram.com/p/BsUpw00gq25/`
